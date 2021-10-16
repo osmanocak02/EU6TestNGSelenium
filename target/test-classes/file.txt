@@ -1,0 +1,2 @@
+"C:\Users\admin\IdeaProjects\EU6TestNGSelenium\src\test\resources\file.txt"
+some text
